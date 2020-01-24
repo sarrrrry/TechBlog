@@ -6,3 +6,7 @@ React + Gatsby のWebサイトです。
 
 [リンク: github.io/TechBlog](https://sarrrrry.github.io/TechBlog/)
 
+
+TODO
+-------------------------
+- [ ] 階層化されたディレクト
