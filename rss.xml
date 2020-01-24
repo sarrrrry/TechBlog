@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[TechBlog written by sarrrrry]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jan 2020 07:48:05 GMT</lastBuildDate><item><title><![CDATA[Sample page: Computer vision]]></title><description><![CDATA[header1 内容 header2 内容 header3 内容 header4 内容]]></description><link>https://gatsby-starter-blog-demo.netlify.com/ml/cv/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/ml/cv/</guid><pubDate>Fri, 24 Jan 2020 14:05:00 GMT</pubDate><content:encoded>&lt;h1&gt;header1&lt;/h1&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;h2&gt;header2&lt;/h2&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;h3&gt;header3&lt;/h3&gt;
+&lt;p&gt;内容&lt;/p&gt;
+&lt;h4&gt;header4&lt;/h4&gt;
+&lt;p&gt;内容&lt;/p&gt;</content:encoded></item></channel></rss>
